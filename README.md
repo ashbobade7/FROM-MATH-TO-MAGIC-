@@ -32,3 +32,24 @@ Topics:
 * Latent Space Visualization
 * Generative Sampling
 
+  ## Week 4 — Convolutional Variational Autoencoder (ConvVAE)
+
+### Colab Notebook
+[WEEK4_COLAB]([https://colab.research.google.com/drive/1t5-574a0BNEnOTnc5yg32GE0JaCm7Ego?usp=sharing](https://colab.research.google.com/drive/1wJGualIBiOmVgO3uzoxG_wpyGZXUKUwA?usp=sharing))
+
+### Topics:
+
+- MNIST Dataset
+- Convolutional Variational Autoencoder (ConvVAE)
+- Conv2D Encoder
+- ConvTranspose2D Decoder
+- ELBO Optimization
+- Binary Cross Entropy (BCE)
+- KL Divergence
+- Reparameterization Trick
+- Latent Space Visualization (t-SNE)
+- Latent Interpolation
+- Generative Sampling
+- β-VAE Experiments
+- Probabilistic Latent Representations
+
