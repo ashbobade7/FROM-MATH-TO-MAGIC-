@@ -53,3 +53,41 @@ Topics:
 - β-VAE Experiments
 - Probabilistic Latent Representations
 
+## Week 5 — Face Variational Autoencoder (FaceVAE)
+
+[WEEK5_COLAB](https://colab.research.google.com/drive/1p-0u0jHXmGJrDUQI_f1Zgoq8Rswsc2zQ?usp=sharing)
+
+### Topics
+
+- CelebA Face Dataset
+- Face Variational Autoencoder (FaceVAE)
+- Deep Convolutional Encoder
+- Deep Convolutional Decoder
+- ELBO Optimization
+- Binary Cross Entropy (BCE)
+- KL Divergence
+- Reparameterization Trick
+- Face Reconstruction
+- Face Generation
+- β-VAE Experiments
+- Latent Space Learning
+- GPU Training & Model Checkpointing
+
+
+## Week 6 — Latent Space Exploration & Semantic Editing
+
+[WEEK 6 ](https://colab.research.google.com/drive/1qbt2nTnKP-vzwVeWWdFBdNu_4KdhXNuX?usp=sharing)
+
+### Topics
+
+- Latent Space Interpolation
+- Face Morphing
+- Semantic Attribute Vectors
+- Latent Arithmetic
+- Smile Manipulation
+- Gender Manipulation
+- Eyeglasses Manipulation
+- Young Attribute Manipulation
+- Random Walk in Latent Space
+- Disentangled Representations
+- Generative Face Editing
