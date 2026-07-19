@@ -91,3 +91,22 @@ Topics:
 - Random Walk in Latent Space
 - Disentangled Representations
 - Generative Face Editing
+
+## Week 7 — Diffusion Mathematics: Forward Diffusion Process
+
+[WEEK 7 ](https://colab.research.google.com/drive/1vLiOXTlcwlNScG9aO4k-4XC7IfCE5nOp?usp=sharing)
+
+### Topics
+
+- Diffusion Models (DDPM)
+- Forward Diffusion Process
+- Gaussian Noise Injection
+- Linear Noise Schedule
+- Cosine Noise Schedule
+- Beta (β) and Alpha (α) Schedules
+- Cumulative Alpha (ᾱ)
+- Closed-form Forward Sampling
+- Signal-to-Noise Ratio (SNR)
+- Image Corruption Visualization
+- Noise Schedule Analysis
+- PyTorch Implementation
